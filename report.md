@@ -14,6 +14,7 @@
 
 #### В качестве тестовых данных использовался код из [Задания](https://github.com/netology-code/javaqa-homeworks/tree/master/programming):
 ![img.png](img.png)
+
 Ожидаемый вывод приложения:
 >0,9
 
